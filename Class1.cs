@@ -5,7 +5,7 @@
     {
         public void Main(string[] args)
         {
-            Console.WriteLine("Ya ljublju C#");
+            Console.WriteLine("I LOVE C#!!");
 
         }
     }
