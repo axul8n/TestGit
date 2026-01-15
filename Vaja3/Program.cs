@@ -9,9 +9,10 @@ internal class Program
             
         int a = 5;
         int b = 10;
+        int c = a + b;
 
 
-        Console.WriteLine("a+b: "+(a+b)+" a: "+a+" b: "+b);
+        Console.WriteLine("c(a+b): "+c+" a: "+a+" b: "+b);
     }
 }
 
