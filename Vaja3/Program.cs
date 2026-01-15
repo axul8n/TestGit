@@ -19,14 +19,45 @@ internal class Program
 
         Console.WriteLine("c(a+b): " + c + " a: " + a + " b: " + b);
 
+        double x = 7.5;
+        double y = 2.5;
+
+        float z = (float)(x * y);
+
+        Console.WriteLine("z(x*y): " + z + " x: " + x + " y: " + y);
+
+        decimal d = 15.5m;
+        decimal e = 4.5m;
+        decimal f = d / e;
+
+        Console.WriteLine("f(d/e): " + f + " d: " + d + " e: " + e);
+
+
     }
 
     public static void Primer2()
     {
-        string ime = "Janez";
-        string priimek = "Novak";
-        string polnoIme = ime + " " + priimek;
-        Console.WriteLine("Polno ime: " + polnoIme);
+        while () 
+        { 
+        
+            if () 
+            { 
+            
+            } 
+            else 
+            {
+
+            }
+
+
+
+
+
+
+
+        }
+    
+    
     }
 
 
