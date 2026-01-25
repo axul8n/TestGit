@@ -6,7 +6,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Primer1();
-        Primer2();
+        //Primer2();
 
     }
 
@@ -35,32 +35,38 @@ internal class Program
 
     }
 
-    public static void Primer2()
+    /* public static void Primer2()
+     {
+         while () 
+         { 
+
+             if () 
+             { 
+
+             } 
+             else 
+             {
+
+             }
+
+
+
+
+
+
+
+         }
+
+
+     }*/
+
+    public static void Primer3()
     {
-        while () 
-        { 
-        
-            if () 
-            { 
-            
-            } 
-            else 
-            {
-
-            }
-
-
-
-
-
-
-
+        for (int i = 0; i < 10; i++)
+        {
+            Console.WriteLine("i: " + i);
         }
-    
-    
     }
-
-
 
 
 
